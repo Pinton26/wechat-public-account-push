@@ -70,7 +70,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DtBL0G1jK0eOwFrTKS9HBEn_JG0MCRTnzKVdCkK9W7s',
+      useTemplateId: 'IzFavFHpymFyephIHBFX1VQxn2BaGnU1J1WYEc_I-TU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
       province: '广东',
@@ -102,7 +102,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR5-HpZQG4amAu-PRQ6MQK92A',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'DtBL0G1jK0eOwFrTKS9HBEn_JG0MCRTnzKVdCkK9W7s',
+      useTemplateId: 'IzFavFHpymFyephIHBFX1VQxn2BaGnU1J1WYEc_I-TU',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-17',
       province: '广东',
@@ -141,8 +141,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '锋哥',
       id: 'ooxRR54VtpA6-r1-bj2M9uKIxKo0',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '02-01',
       province: '广东',
       city: '中山',
       openUrl: 'https://weibo.com/hot/search',      
@@ -151,8 +151,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '机机',
       id: 'ooxRR55VN1ZRi6m2PqdYxZQdAi5Q',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '08-01',
       province: '广东',
       city: '广州',
       openUrl: 'https://weibo.com/hot/search',      
@@ -161,8 +161,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '管家',
       id: 'ooxRR547IuOSjxRIY433JT1BA3r8',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '11-01',
       province: '广东',
       city: '广州',
       openUrl: 'https://weibo.com/hot/search',      
@@ -171,8 +171,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '妮可',
       id: 'ooxRR56YsXaXTCKViRtW3uFSwlrg',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '10-01',
       province: '北京',
       city: '北京',
       openUrl: 'https://weibo.com/hot/search',      
@@ -181,8 +181,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '然哥',
       id: 'ooxRR54oRsxNDjVGCcadrb9r2pTs',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '11-01',
       province: '广东',
       city: '深圳',
       openUrl: 'https://weibo.com/hot/search',      
@@ -191,8 +191,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '台台',
       id: 'ooxRR59CCAgFNT5MQ2PpKI7ZGm_Y',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '12-01',
       province: '湖北',
       city: '武汉',
       openUrl: 'https://weibo.com/hot/search',      
@@ -201,8 +201,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '道道',
       id: 'ooxRR5-k3JrDObsfYlf34YEZyxMs',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '12-01',
       province: '广东',
       city: '广州',
       openUrl: 'https://weibo.com/hot/search',      
@@ -211,8 +211,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '三金',
       id: 'ooxRR56jsKZESpmxloderwWgPtdQ',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '03-01',
       province: '广西',
       city: '玉林',
       openUrl: 'https://weibo.com/hot/search',      
@@ -221,8 +221,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '杰杰',
       id: 'ooxRR53u_1HInx5EYD0-Tj5-Q-ps',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '11-01',
       province: '广东',
       city: '广州',
       openUrl: 'https://weibo.com/hot/search',      
@@ -231,8 +231,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '糖糖',
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
-      useTemplateId: '7dAaElx0Ppdd7pbrcrNWSCLm7IuBcya1ncTKQaaT7V4',
-      horoscopeDate: '08-17',
+      useTemplateId: 'RN3PE6zdIYTbYe7y2efariNz-qKSc2fqqbXTNEuNVs4',
+      horoscopeDate: '12-26',
       province: '广东',
       city: '佛山',
       openUrl: 'https://weibo.com/hot/search',      

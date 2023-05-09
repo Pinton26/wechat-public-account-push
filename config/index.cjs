@@ -93,7 +93,7 @@ const USER_CONFIG = {
         },
         {
           type: '节日', name: '相恋纪念日', year: '2020', date: '10-10',
-        },
+    },
     {
       // 想要发送的人的名字
       name: '奶哈',

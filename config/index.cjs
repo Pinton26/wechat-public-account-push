@@ -70,7 +70,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'faq31gUX1T7Yms7-iMTNePvZ_OSWn9Rr3kx6K1WbRNo',
+      useTemplateId: '4GzJ5KZU5fGyVn89XnQtN8HWfj1rUDBsV3klhlHBI0g',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
       province: '广东省',

@@ -67,11 +67,11 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'vPGdqJUN9DeLJaJIWmSnWU_Gvzc9mV6k0GCzNBbGAt4',
+      useTemplateId: '-Kk11dgGg748ngBF1Ga2cFx39A_W_1sgz9iFb6ffico',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
-      province: '广东',
-      city: '广州',
+      province: '广东省',
+      city: '广州市',
       openUrl: 'https://weibo.com/hot/search',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号

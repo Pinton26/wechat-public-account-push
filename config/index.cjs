@@ -60,8 +60,8 @@ const USER_CONFIG = {
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
   LITERARY_PREFERENCE: '',
   
-  PROVINCE: '广东省',
-  CITY: '广州市',
+  PROVINCE: '广东',
+  CITY: '广州',
 
   USERS: [
     {
@@ -70,7 +70,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '4GzJ5KZU5fGyVn89XnQtN8HWfj1rUDBsV3klhlHBI0g',
+      useTemplateId: 'ppwNqOCd8VrRMDLOd_ZrNJUcHf6n5JcHvmpgi4AFl2A',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
       province: '广东省',

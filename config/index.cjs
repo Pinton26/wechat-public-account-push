@@ -70,9 +70,39 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ppwNqOCd8VrRMDLOd_ZrNJUcHf6n5JcHvmpgi4AFl2A',
+      useTemplateId: 'fSS01QQ4jMpCcw4HIvQ9mRixbPmTvXyCGaFXPv5xaaM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
+      province: '广东省',
+      city: '广州市',
+      openUrl: 'https://weibo.com/hot/search',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '奶哈', year: '1996', date: '07-04',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '奶哈', year: '1996', date: '08-17',        
+        },
+        {
+          type: '*生日', name: '奶糖', year: '1995', date: '12-26',        
+        },
+        {
+          type: '生日', name: '奶糖', year: '1995', date: '12-26',        
+        },
+        {
+          type: '节日', name: '相恋纪念日', year: '2020', date: '10-10',
+        },
+        {
+      // 想要发送的人的名字
+      name: '奶哈',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'ooxRR5-HpZQG4amAu-PRQ6MQK92A',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'fSS01QQ4jMpCcw4HIvQ9mRixbPmTvXyCGaFXPv5xaaM',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '08-17',
       province: '广东省',
       city: '广州市',
       openUrl: 'https://weibo.com/hot/search',

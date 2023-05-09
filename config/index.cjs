@@ -73,8 +73,8 @@ const USER_CONFIG = {
       useTemplateId: 'fSS01QQ4jMpCcw4HIvQ9mRixbPmTvXyCGaFXPv5xaaM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-26',
-      province: '广东省',
-      city: '广州市',
+      province: '广东',
+      city: '广州',
       openUrl: 'https://weibo.com/hot/search',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
@@ -94,7 +94,7 @@ const USER_CONFIG = {
         {
           type: '节日', name: '相恋纪念日', year: '2020', date: '10-10',
         },
-        {
+    {
       // 想要发送的人的名字
       name: '奶哈',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
@@ -103,8 +103,8 @@ const USER_CONFIG = {
       useTemplateId: 'fSS01QQ4jMpCcw4HIvQ9mRixbPmTvXyCGaFXPv5xaaM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-17',
-      province: '广东省',
-      city: '广州市',
+      province: '广东',
+      city: '广州',
       openUrl: 'https://weibo.com/hot/search',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号

@@ -115,7 +115,28 @@ const USER_CONFIG = {
       id: 'ooxRR57wENvMeXmsyeTowPLNNT7o',
     }
   ],
+SLOT_LIST: [
+    // 这样配置的话，就会每次发送这句话
+    { keyword: 'encourage_oneself', contents: '你主要的问题在于读书太少而想得太多' },
+    // 这样配置的话，就会每次随机选一句话发送
+    {
+      keyword: 'lover_prattle',
+      contents: [
+        "大奶贝(*^▽^*)",
+        "小奶贝(^_−)☆",
+        "小贝头(✪ω✪)",
+        "大奶露(*^◎^*)",
+        "小奶露(ﾉ´▽｀)ﾉ♪",
+        "奶墩(ﾟ▽ﾟ*) ",
+        "奶融(◕ᴗ◕✿)",
+        "奶豁φ(≧ω≦*)♪",
+        "奶彪ヽ(=^･ω･^=)丿",
 
+      ],
+    }
+    // 你可以不断按格式往下增加
+    // ...
+  ],
 }
 
 module.exports = USER_CONFIG

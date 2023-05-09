@@ -49,12 +49,10 @@ const USER_CONFIG = {
     
     // 毒鸡汤, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     poisonChickenSoup: true,
-
   
     /** 生日消息和节日消息 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     birthdayMessage: true,
-
   },
   
   PROVINCE: '广东省',
